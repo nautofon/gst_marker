@@ -1,0 +1,6 @@
+company_permanent: company.permanent.vor_oil_gst
+{
+	name: "Vortex gst"
+	sort_name: "vortex gst"
+	trailer_look: vortex
+}

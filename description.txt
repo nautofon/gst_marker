@@ -1,0 +1,19 @@
+[normal]The [orange]Gas station underground tank markers [normal]mod adds symbols for deliverable gas stations to the world map and job market. It also changes the in-game company name for such gas stations shown on the F6 screen to "Gallon Oil gst" and "Vortex gst", respectively. This makes them searchable in the Company Browser.
+
+This is primarily useful for work on wiki articles relating to deliverable gas stations, as those depots are normally hidden. It might perhaps also be of interest to players who are interested in cargo jobs to deliverable gas stations, and would like an easier way to to identify such jobs.
+
+[orange]Limitation:
+
+[normal]As a side effect of this mod, green cargo job triggers will appear in the game world at deliverable gas stations. There will never be any jobs available though, because the only type of cargo provided here is not accepted anywhere. This special marker cargo also shows up in the Company Browser.
+
+[orange]Compatibility:
+
+[normal]Tested with ATS 1.46. Likely compatible with a wide range of ATS versions.
+
+[orange]Distribution:
+
+[normal]This mod is placed into the Public Domain. You do whatever you want with it! :) No attribution is required. Should you still wish to cite the original source of the idea, please credit the author as [orange]nautofon [normal]and/or link to this mod's discussion thread on the SCS forum.
+
+[blue]https://forum.scssoft.com/viewtopic.php?t=316065
+
+[normal]Enjoy!

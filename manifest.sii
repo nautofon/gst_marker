@@ -1,0 +1,13 @@
+SiiNunit
+{
+mod_package : .gst_marker {
+
+	package_version: "1"
+	display_name: "Gas station underground tank markers"
+	author: "nautofon"
+	category[]: "ui"
+	icon: "gst_marker.jpg"
+	description_file: "description.txt"
+	mp_mod_optional: true
+}
+}
