@@ -1,4 +1,4 @@
-[normal]The [orange]Gas station underground tank markers [normal]mod adds symbols for deliverable gas stations to the world map and job market. It also changes the in-game company name for such gas stations shown on the F6 screen to "Gallon Oil gst" and "Vortex gst", respectively. This makes them searchable in the Company Browser.
+[normal]The [orange]Gas station underground tank markers [normal]mod adds symbols for deliverable gas stations to the world map and job market. It also changes the in-game company name for such gas stations shown on the F6 screen to "Gallon Oil /gst" and "Vortex /gst", respectively. This makes them searchable in the Company Browser.
 
 This is primarily useful for work on wiki articles relating to deliverable gas stations, as those depots are normally hidden. It might perhaps also be of interest to players who are interested in cargo jobs to deliverable gas stations, and would like an easier way to to identify such jobs.
 
