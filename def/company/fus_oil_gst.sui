@@ -1,0 +1,6 @@
+company_permanent: company.permanent.fus_oil_gst
+{
+	name: "Fusion /gst"
+	sort_name: "fusion /gst"
+	trailer_look: fusion
+}

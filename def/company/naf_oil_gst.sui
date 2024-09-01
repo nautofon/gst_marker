@@ -1,0 +1,6 @@
+company_permanent: company.permanent.naf_oil_gst
+{
+	name: "NAF /gst"
+	sort_name: "naf /gst"
+	trailer_look: naf
+}

@@ -1,0 +1,6 @@
+company_permanent: company.permanent.pho_oil_gst
+{
+	name: "Phoenix /gst"
+	sort_name: "phoenix /gst"
+	trailer_look: phoenix
+}

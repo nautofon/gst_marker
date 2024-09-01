@@ -1,0 +1,6 @@
+company_permanent: company.permanent.grp_oil_gst
+{
+	name: "Green Petrol /gst"
+	sort_name: "greenpetrol /gst"
+	trailer_look: greenpetrol
+}

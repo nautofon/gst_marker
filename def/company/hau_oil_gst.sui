@@ -1,0 +1,6 @@
+company_permanent: company.permanent.hau_oil_gst
+{
+	name: "Haulett /gst"
+	sort_name: "haulett /gst"
+	trailer_look: haulett
+}

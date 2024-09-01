@@ -1,0 +1,6 @@
+company_permanent: company.permanent.aro_oil_gst
+{
+	name: "Aron /gst"
+	sort_name: "aron /gst"
+	trailer_look: aron
+}

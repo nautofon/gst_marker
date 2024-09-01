@@ -1,0 +1,6 @@
+company_permanent: company.permanent.dri_oil_gst
+{
+	name: "Driverse /gst"
+	sort_name: "driverse /gst"
+	trailer_look: driverse
+}

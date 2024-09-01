@@ -1,0 +1,6 @@
+company_permanent: company.permanent.wp_oil_gst
+{
+	name: "WP /gst"
+	sort_name: "wp /gst"
+	trailer_look: wp
+}
