@@ -9,5 +9,6 @@ mod_package : .gst_marker {
 	icon: "gst_marker.jpg"
 	description_file: "description.txt"
 	mp_mod_optional: true
+
 }
 }
