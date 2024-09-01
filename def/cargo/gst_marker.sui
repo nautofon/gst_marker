@@ -11,6 +11,11 @@ cargo_data: cargo.gst_marker
 	unit_load_time: 5
 	body_types[]: fueltank
 
+	// for compatibility with ATS < 1.46
+	body_types[]: foodtank
+	body_types[]: _fueldiel
+	body_types[]: _fuel_ldiel
+
 	maximum_distance: 1
 
 }

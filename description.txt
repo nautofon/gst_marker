@@ -8,7 +8,7 @@ This is primarily useful for work on wiki articles relating to deliverable gas s
 
 [orange]Compatibility:
 
-[normal]Tested with ATS 1.46. Likely compatible with a wide range of ATS versions.
+[normal]Tested with ATS 1.43 and 1.46 through 1.50.
 
 [orange]Distribution:
 
