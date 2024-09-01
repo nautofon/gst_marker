@@ -2,7 +2,7 @@ SiiNunit
 {
 mod_package : .gst_marker {
 
-	package_version: "2 dev"
+	package_version: "2"
 	display_name: "Gas station underground tank markers"
 	author: "nautofon"
 	category[]: "ui"
